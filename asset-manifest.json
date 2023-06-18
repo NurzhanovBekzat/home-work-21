@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/home-work-21/static/css/main.dd8f0a04.css",
+    "main.js": "/home-work-21/static/js/main.d154cac6.js",
+    "static/media/foodPhoto.png": "/home-work-21/static/media/foodPhoto.1869efe11eed99b0f914.png",
+    "static/media/Group.svg": "/home-work-21/static/media/Group.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/home-work-21/index.html",
+    "static/media/plusAdd.svg": "/home-work-21/static/media/plusAdd.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "static/media/plus.svg": "/home-work-21/static/media/plus.5e2025a96ba73c4c7c15f2ed65f9ccd4.svg",
+    "static/media/minus.svg": "/home-work-21/static/media/minus.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.dd8f0a04.css.map": "/home-work-21/static/css/main.dd8f0a04.css.map",
+    "main.d154cac6.js.map": "/home-work-21/static/js/main.d154cac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8f0a04.css",
+    "static/js/main.d154cac6.js"
+  ]
+}
